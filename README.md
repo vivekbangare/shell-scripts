@@ -47,5 +47,5 @@ Remember to exercise caution when executing shell scripts from untrusted sources
 
 
 
-
-
+### Contributing
+Contributions to this repository are welcome! If you have any improvements or additional example workflows, feel free to open a pull request.
